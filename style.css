@@ -1,0 +1,69 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+* {
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #9e9e9e;
+  }
+  a {
+    color : white ;
+  }
+  .first-nav {
+    background-color: #343a40;
+    opacity: 70%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 35px;
+    justify-content: space-between
+  }
+  .social-media-nav {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    co
+  }
+  .social-media-nav a {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 15px;
+  }
+  
+  .social-media-nav a:hover {
+    background-color: #00ff00;
+  }
+  .contact-us {
+    margin-bottom: 10px;
+  }
+  .first-nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .social-media-nav {
+    flex : ;
+    margin-right: 15px;
+  }
+  
+  .contact-us {
+    float: right;
+    margin-left: 30px;
+  }
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin: 50px;
+  }
+
+  .slider-one {
+    background-image: ./Pic/Banner1.png ;
+  }
+
+  .slider-two{
+    background-image: ./Pic/Banner2.png ;
+  }
+
