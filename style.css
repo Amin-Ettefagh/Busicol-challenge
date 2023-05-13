@@ -60,10 +60,21 @@ li {
   }
 
   .slider-one {
-    background-image: ./Pic/Banner1.png ;
+    background-image : url("./Pic/Banner1.png")
   }
 
-  .slider-two{
-    background-image: ./Pic/Banner2.png ;
+  .slider-two {
+    background-image : url("./Pic/Banner2.png")
   }
 
+.service-1 {
+  background-image : url("./Pic/service1.png")
+}
+
+.service-2 {
+  background-image : url("./Pic/service2.png")
+}
+
+.service-3 {
+  background-image : url("./Pic/service3.png")
+}
